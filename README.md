@@ -1,8 +1,5 @@
 <h1 align="center">
 <br>
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
-<br>
-<br>
   Jogo da Velha feito em Java.
 </h1>
 
@@ -16,8 +13,7 @@
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="IMAGE_1_URL" alt="demo" height="425">
-  <img src="IMAGE_2_URL" alt="demo" height="425">
+  <img src="A1" alt="demo" height="425">
 </div>
 
 
