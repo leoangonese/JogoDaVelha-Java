@@ -1,9 +1,9 @@
 <h1 align="center">
 <br>
-  Jogo da Velha feito em Java.
+  "Jogo da Velha" made in java.
 </h1>
 
-<p align="center">O objetivo do jogo é fazer uma sequência de três símbolos iguais, seja em linha vertical, horizontal ou diagonal, enquanto tenta impedir que seu adversário faça o mesmo; Quando um dos participantes faz uma linha, ganha o jogo; Começa do início, normalmente trocando os símbolos escolhidos.</p>
+<p align="center">The object of the game is to make a sequence of three identical symbols, either in a vertical, horizontal or diagonal line, while trying to prevent your opponent from doing the same; When one of the participants makes a line, he wins the game; It starts from the beginning, usually swapping the chosen symbols.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
