@@ -13,7 +13,7 @@
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="A1" alt="demo" height="425">
+  <img src="A1.png" alt="demo" height="425">
 </div>
 
 
