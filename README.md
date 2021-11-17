@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  "Jogo da Velha" made in java.
+  Tic Tac Toe made in java.
 </h1>
 
 <p align="center">The object of the game is to make a sequence of three identical symbols, either in a vertical, horizontal or diagonal line, while trying to prevent your opponent from doing the same; When one of the participants makes a line, he wins the game; It starts from the beginning, usually swapping the chosen symbols.</p>
